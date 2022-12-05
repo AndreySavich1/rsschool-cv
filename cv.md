@@ -5,4 +5,4 @@ I started with independent study, but two months later I learned about the cours
 ### I try not to stand still, I study new material, I want to work in this area and constantly grow as a programmer.
 **my skills include:**
 * Working with **CSS,HTML**
-*__And also I study JavaScript__*
+*And also I study JavaScript*
