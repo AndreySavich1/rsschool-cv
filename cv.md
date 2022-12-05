@@ -10,4 +10,5 @@ I started with independent study, but two months later I learned about the cours
 
 *__And also I study JavaScript__*
 
-I took Ivan Petrechenko's course __"Web Developer 2021"__, but the practical part was too little for me!
+I took Ivan Petrechenko's course __"Web Developer 2021"__ , but the practical part was too little for me!
+*I have a specialized secondary education, in the future I plan to finish courses from the RS school*
