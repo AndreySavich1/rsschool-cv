@@ -1,8 +1,35 @@
 img {
-    width: 300px;
-    display: block;
-    margin: 50px;
+    position: absolute;
+    width: 555px;
+    height: 530px;
+    left: 150px;
+    top: 194px;
 }
 body {
     background-color: #afafaf;
+}
+.rs {position: absolute;
+    width: 219px;
+    height: 44px;
+    left: 150px;
+    top: 100px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 44px;
+    color: #2E2E2E;
+}
+.name {
+    position: absolute;
+    width: 460px;
+    height: 32px;
+    left: 735px;
+    top: 194px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 32px;
+    color: #2E2E2E;
 }
