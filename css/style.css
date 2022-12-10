@@ -132,24 +132,27 @@ h4 {
 }
 .mail { 
     position: absolute;
-    width: 165px;
-    height: 25px;
-    left: 345px;
-    top: 794px;
-    font-family: 'Euclid Circular A';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 23px;
-    display: flex;
-    align-items: center;
-    text-align: center; 
-    color: #2E2E2E;
+width: 175px;
+height: 23px;
+left: 350px;
+top: 795px;
+font-family: 'Euclid Circular A';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #2E2E2E;
 }
 #mail_icon {
     position: absolute;
     left: 415px;
-top: 784px;
+    top: 779px;
 
     
+}
+.green {
+    color: #52B29A;
 }
