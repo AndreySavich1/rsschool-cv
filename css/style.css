@@ -6,7 +6,7 @@ img {
     top: 194px;
 }
 body {
-    background-color: #afafaf;
+    background-color: #ffffff;
 }
 .rs {position: absolute;
     width: 219px;
@@ -32,4 +32,100 @@ body {
     font-size: 25px;
     line-height: 32px;
     color: #2E2E2E;
+}
+#age {
+    position: absolute;
+width: 124px;
+height: 25px;
+left: 735px;
+top: 246px;
+
+font-family: 'Euclid Circular A';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #AFAFAF;
+}
+#location {
+    position: absolute;
+    width: 135px;
+    height: 25px;
+    left: 1060px;
+    top: 246px;
+
+    font-family: 'Euclid Circular A';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #AFAFAF;
+}
+
+#IT {
+    position: absolute;
+    width: 459px;
+    height: 92px;
+    left: 735px;
+    top: 296px;
+    
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: justify;
+    
+    color: #2E2E2E;
+    
+}
+#study {
+    position: absolute;
+width: 460px;
+height: 69px;
+left: 735px;
+top: 393px;
+
+font-family: 'Euclid Circular A';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+text-align: justify;
+
+color: #2E2E2E;
+}
+#practical {
+    
+position: absolute;
+width: 459px;
+height: 46px;
+left: 735px;
+top: 467px;
+
+font-family: 'Euclid Circular A';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+text-align: justify;
+
+color: #2E2E2E;
+}
+#skill {
+    position: absolute;
+width: 459px;
+height: 75px;
+left: 735px;
+top: 523px;
+
+font-family: 'Euclid Circular A';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+
+color: #2E2E2E;
 }
