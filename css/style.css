@@ -35,18 +35,16 @@ body {
 }
 #age {
     position: absolute;
-width: 124px;
-height: 25px;
-left: 735px;
-top: 246px;
-
-font-family: 'Euclid Circular A';
-font-style: italic;
-font-weight: 400;
-font-size: 20px;
-line-height: 25px;
-
-color: #AFAFAF;
+    width: 124px;
+    height: 25px;
+    left: 735px;
+    top: 246px;
+    font-family: 'Euclid Circular A';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #AFAFAF;
 }
 #location {
     position: absolute;
@@ -54,13 +52,11 @@ color: #AFAFAF;
     height: 25px;
     left: 1060px;
     top: 246px;
-
     font-family: 'Euclid Circular A';
     font-style: italic;
     font-weight: 400;
     font-size: 20px;
     line-height: 25px;
-
     color: #AFAFAF;
 }
 
@@ -70,62 +66,83 @@ color: #AFAFAF;
     height: 92px;
     left: 735px;
     top: 296px;
-    
     font-family: 'Euclid Circular A';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 23px;
     text-align: justify;
-    
     color: #2E2E2E;
     
 }
 #study {
     position: absolute;
-width: 460px;
-height: 69px;
-left: 735px;
-top: 393px;
-
-font-family: 'Euclid Circular A';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 23px;
-text-align: justify;
-
-color: #2E2E2E;
+    width: 460px;
+    height: 69px;
+    left: 735px;
+    top: 393px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: justify;
+    color: #2E2E2E;
 }
 #practical {
-    
-position: absolute;
-width: 459px;
-height: 46px;
-left: 735px;
-top: 467px;
-
-font-family: 'Euclid Circular A';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 23px;
-text-align: justify;
-
-color: #2E2E2E;
+    position: absolute;
+    width: 459px;
+    height: 46px;
+    left: 735px;
+    top: 467px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: justify;
+    color: #2E2E2E;
 }
 #skill {
     position: absolute;
-width: 459px;
-height: 75px;
-left: 735px;
-top: 523px;
-
-font-family: 'Euclid Circular A';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 25px;
-
-color: #2E2E2E;
+    width: 459px;
+    height: 75px;
+    left: 735px;
+    top: 523px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #2E2E2E;
+}
+h4 {
+    position: absolute;
+    width: 460px;
+    height: 46px;
+    left: 735px;
+    top: 608px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: justify;
+    color: #2E2E2E;
+}
+#mail { 
+    position: absolute;
+    width: 165px;
+    height: 25px;
+    left: 345px;
+    top: 794px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center; 
+    color: #2E2E2E;
 }
