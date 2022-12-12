@@ -163,3 +163,9 @@ color: #2E2E2E;
 .yellow {
     color: #FAEA68;
 }
+
+.body {
+    display: flex;
+    flex-direction: column;
+     justify-content: space-between;
+}
