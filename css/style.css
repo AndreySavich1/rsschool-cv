@@ -184,7 +184,7 @@ body {
 .footer {
     height: 100px;
     width: 100vw;
-   background-color:dimgrey;
+    background-color:dimgrey;
 }
 .nav-list {
     display: flex;
@@ -197,9 +197,12 @@ body {
   }
 #rs_logo {
     width: 150px;
-
-   
+    margin-top: 10px;
 }
 .header_wrapper {
     display: flex;
+}
+.footer p {
+    margin: 0 auto;
+    text-align: center;
 }
