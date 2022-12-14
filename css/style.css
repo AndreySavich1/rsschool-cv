@@ -164,10 +164,13 @@ h4 {
     color: #FAEA68;
 }
 
-.body {
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0%;
     display: flex;
     flex-direction: column;
-     justify-content: space-between;
+    justify-content: space-between;
 }
 .container {
     max-width: 1440px;
@@ -175,5 +178,11 @@ h4 {
 }
 .header {
     height: 100px;
-   background-color: #2E2E2E;
+    width: 100%;
+   background-color:dimgrey;
+}
+.footer {
+    height: 100px;
+    width: 100%;
+   background-color:dimgrey;
 }
